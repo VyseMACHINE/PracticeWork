@@ -1,0 +1,5 @@
+C:\Users\Alibek\Documents\SharpDevelop Projects\ClassWork\ClassWork\obj\Debug\ClassWork.csprojResolveAssemblyReference.cache
+C:\Users\Alibek\Documents\SharpDevelop Projects\ClassWork\ClassWork\bin\Debug\ClassWork.exe
+C:\Users\Alibek\Documents\SharpDevelop Projects\ClassWork\ClassWork\bin\Debug\ClassWork.pdb
+C:\Users\Alibek\Documents\SharpDevelop Projects\ClassWork\ClassWork\obj\Debug\ClassWork.exe
+C:\Users\Alibek\Documents\SharpDevelop Projects\ClassWork\ClassWork\obj\Debug\ClassWork.pdb
