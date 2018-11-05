@@ -1,0 +1,7 @@
+c:\users\кусановал\source\repos\BaseTypes\BaseTypes\bin\Debug\BaseTypes.exe.config
+c:\users\кусановал\source\repos\BaseTypes\BaseTypes\bin\Debug\BaseTypes.exe
+c:\users\кусановал\source\repos\BaseTypes\BaseTypes\bin\Debug\BaseTypes.pdb
+c:\users\кусановал\source\repos\BaseTypes\BaseTypes\obj\Debug\BaseTypes.csprojAssemblyReference.cache
+c:\users\кусановал\source\repos\BaseTypes\BaseTypes\obj\Debug\BaseTypes.csproj.CoreCompileInputs.cache
+c:\users\кусановал\source\repos\BaseTypes\BaseTypes\obj\Debug\BaseTypes.exe
+c:\users\кусановал\source\repos\BaseTypes\BaseTypes\obj\Debug\BaseTypes.pdb
